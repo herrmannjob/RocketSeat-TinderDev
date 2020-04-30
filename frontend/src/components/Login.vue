@@ -11,7 +11,7 @@
       <br/>
       Implementação em Vue por Gabriel Herrmann Grecchi
       <br/>
-      <a href="https://github.com/herrmannjob/RocketSeat-TinderDev">https://github.com/herrmannjob/RocketSeat-TinderDev</a>
+      <a href="https://github.com/herrmannjob/RocketSeat-TinderDev">GitHub</a>
     </div>
   </div>
 </template>
