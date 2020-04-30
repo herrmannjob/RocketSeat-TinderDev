@@ -1,8 +1,10 @@
 ﻿# Tindev
 
-![tindev](https://user-images.githubusercontent.com/1509692/64775871-813cc980-d52d-11e9-835d-15bc79878099.png)
+![tindevlogin](https://i.ibb.co/YdTgwjt/tindev.png)
 
-![tindev](https://user-images.githubusercontent.com/1509692/64775972-b8ab7600-d52d-11e9-86a6-0310609dace8.png)
+![tindevhome](https://i.ibb.co/w4SMbbh/tindev-2.png)
+
+![tindevlike](https://i.ibb.co/thCsYNW/tindev-3.png)
 
 
 Um "tinder" para devs utilizando VueJS e NodeJS.
