@@ -9,9 +9,9 @@
     <div class="creditos">
       Projeto originalmente criado por <a href="https://rocketseat.com.br">RocketSeat</a>
       <br/>
-      Implementação em Vue por Daniel Schmitz
+      Implementação em Vue por Gabriel Herrmann Grecchi
       <br/>
-      <a href="https://github.com/danielschmitz/tindev">https://github.com/danielschmitz/tindev</a>
+      <a href="https://github.com/herrmannjob/RocketSeat-TinderDev">https://github.com/herrmannjob/RocketSeat-TinderDev</a>
     </div>
   </div>
 </template>

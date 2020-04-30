@@ -1,4 +1,4 @@
-# Tindev
+﻿# Tindev
 
 ![tindev](https://user-images.githubusercontent.com/1509692/64775871-813cc980-d52d-11e9-835d-15bc79878099.png)
 
@@ -23,7 +23,7 @@ Um "tinder" para devs utilizando VueJS e NodeJS.
 
 ## Observações importantes
 
-Demo: https://tindevue.herokuapp.com
+Demo: https://tindevghg.herokuapp.com/
 
 Uma cópia da Semana Omnistack da Rocketseat, que fez em React (http://bit.ly/semana-omnistack-agosto)
 
@@ -33,7 +33,7 @@ Ao invés de colocar a URL do mongo direto no código, e deixar isso público no
 
 ## Deploy no heroku
 
-Esse projeto pode ser acessado em: https://tindevue.herokuapp.com
+Esse projeto pode ser acessado em: https://tindevghg.herokuapp.com/
 
 Para que se possa fazer esse tipo de integração com o heroku, é necessário realizar alguns passos a mais em relação ao conteúdo que o diego3g está publicando. Sugiro que faça essa integração após terminar a 2ª aula sobre frontend.
 

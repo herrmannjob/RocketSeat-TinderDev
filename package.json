@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielschmitz/tindev.git"
+    "url": "git+https://github.com/herrmannjob/RocketSeat-TinderDev.git"
   },
   "keywords": [],
-  "author": "Daniel Schmitz",
+  "author": "Gabriel Grecchi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danielschmitz/tindev/issues"
+    "url": "https://github.com/herrmannjob/RocketSeat-TinderDev/issues"
   },
-  "homepage": "https://tindevue.herokuapp.com/"
+  "homepage": "https://tindevghg.herokuapp.com/"
 }
